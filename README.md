@@ -46,6 +46,9 @@ Exemplo:
 
 ![Imagem](URL_da_imagem)
 
+![GitHub](https://github.com/opereiraricardo/aula002/assets/7780390/223ae71b-2f18-4bdb-8901-c575c5b47345)
+
+
 ## Ênfase
 Permitem enfatizar texto, como itálico, negrito, tachado, subscrito e sobrescrito.
 
